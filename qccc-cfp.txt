@@ -1,66 +1,37 @@
                               CALL FOR ABSTRACTS:
-                          The First International Workshop on
-                     Quantum Classical Cooperative Computing (QCCC-22)
-                           May 30th, 2022, Lyon, France
+                          The Second International Workshop on
+                     Quantum Classical Cooperative Computing (QCCC-23)
+                           Jun 16, Orlando, FL, USA
 
                              Held in conjunction with
-    The 36th IEEE International Parallel and Distributed Processing Symposium
-                                    (IPDPS’22)
+    The 32nd International Symposium on High-Performance Parallel and Distributed Computing (HPDC’23)                   
 
-The past five years have seen tremendous development in quantum computing technology, remarked by 
-the demonstration of quantum supremacy. Although many quantum algorithms declare exponential 
-speedups over their classical counterparts, today's quantum devices in the noisy-intermediate 
-scale quantum (NISQ) era are very susceptible to environmental noise, internal interference, 
-manufacturing imperfection, and technology limitation. Consequently, quantum algorithms that 
-are more robust to noise, or can be effectively decomposed into small pieces for incremental 
-or parallel quantum execution become promising. 
+The past five years have seen tremendous development in quantum computing technology, with the recent demonstration of quantum supremacy being a major milestone. However, today's quantum devices in the noisy-intermediate scale quantum (NISQ) era are still vulnerable to environmental noise, internal interference, manufacturing imperfection, and technology limitations. As a result, quantum algorithms that are more robust to noise or can be effectively decomposed into small pieces for incremental or parallel quantum execution become increasingly promising.
 
-The purpose of this workshop is to explore innovative ways of quantum-classical cooperative 
-computing (QCCC) to make quantum computing more effective and scalable in NISQ platforms. The 
-workshop will focus heavily on how classical computing can improve NISQ device execution 
-efficiency, scalability, or compensate for noise impact or technology deficiency, with particular 
-emphasis on demonstrable approaches on existing NISQ platforms, such as IBM-Q, IonQ and Rigetti.
+The purpose of this workshop is to explore innovative ways of quantum-classical cooperative computing (QCCC) that can enhance the effectiveness and scalability of quantum computing on NISQ platforms. The workshop will focus heavily on how classical computing can improve NISQ device execution efficiency, scalability, or compensate for noise impact or technology deficiency, with a particular emphasis on demonstrable approaches on existing NISQ platforms, such as IBM-Q, IonQ, and Rigetti.
 
-Topics of interest include, but not limited to:
-* Quantum classical hybrid algorithms
-* Variational quantum algorithms (VQA)
-* Quantum runtime systems and schedulers
-* Parallel quantum computing
-* Quantum resources management
-* Architectural support for QCCC
-* Quantum circuit decomposition, integration and sampling techniques
-* Quantum profiling and instrumentation
-* Effective approaches for encoding/decoding classical information into/from quantum state
-* Quantum error correction and error mitigation
-* Other QCCC approaches
+We invite submissions on topics related to QCCC for NISQ platforms, including but not limited to:
+- Hybrid quantum-classical algorithms and applications for NISQ platforms
+- Quantum error correction and fault tolerance in the NISQ era
+- Classical methods for mitigating noise and improving NISQ device performance
+- Hardware and software co-design for NISQ devices
+- Quantum-classical optimization techniques for NISQ platforms
+- Benchmarking and performance evaluation of QCCC on NISQ devices
+- Quantum runtime systems and schedulers
+- Parallel quantum computing
+- Quantum resources management
 
-Topics that are not relevant include pure quantum or pure classical algorithm/hardware design, 
-benchmarking of quantum algorithm/devices. 
+We welcome original research papers, work-in-progress reports, and position papers that address these and related topics. Submissions will be reviewed by a program committee consisting of experts in quantum computing and related fields.
 
 Venue:
-This workshop is part of IEEE International Parallel and Distributed Processing Symposium (IPDPS 2022)
-scheduled from May 30 to June 3, 2022 at Ecole Normale Supérieure de Lyon, Lyon, France. 
+This workshop is part of the International Symposium on High-Performance Parallel and Distributed Computing (HPDC 2023) scheduled from June 16 to June 23, 2023 at Orlando, Florida, USA. 
 
 Important Dates:
-* Extended 2-page Abstract Submission Deadline: Friday, Febrary 25, 2022
-* Acceptance Notification: Friday, March 4, 2022
-* Camera-ready Manuscripts Due: Tuesday, March 15, 2022
-* Workshop: Monday, May 30, 2022
+Paper submission deadline: Mar 24, 2023 
+Notification of acceptance: Apr 19, 2023
+Camera-ready deadline: May 5, 2023
+Workshop date: TBA
 
-Paper Submissions:
+Submissions should follow the standard format of ACM proceedings and should not exceed 4 pages, including references. All submissions must be in PDF format and should be submitted through the workshop's EasyChair submission site
 
-Authors are invited to submit original 2-page (double-column) extended abstracts. The deadline is 
-Friday, Mar 11, 2022. Accepted papers will be invited to submit a full paper for the workshop 
-proceedings to be published in the IEEE Digital Library as part of the IPDPS-22 workshop proceedings. 
 
-Full papers for the workshop proceedings will be due Friday, April 29, 2022. The full paper is 
-limited to 6 pages without references. Please use the IEEE Conference Proceedings format for
-your submissions: (https://www.ieee.org/conferences/publishing/templates.html).
-
-Accepted papers will be given 15 mins to present in the workshop.
-
-Papers are to be submitted electronically through the Easychair system at: 
-https://easychair.org/conferences/?conf=qccc22
-
-Program Committee:
-TBD.
