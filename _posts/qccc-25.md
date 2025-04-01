@@ -56,12 +56,13 @@ Topics that are not relevant include pure quantum or pure classical algorithm/ha
 
 ## Submissions
 
-Authors are invited to submit original 2-page (double-column, up to 4 pages) extended abstracts. The deadline is Friday, March 22, 2024.
+We invite **2–4 page extended abstracts** (excluding references). Submissions should adhere to standard IEEE or ISCA workshop formatting guidelines. Accepted abstracts will be included in the workshop proceedings.  
 
 Accepted papers will be given 15 mins to present in the workshop.
 
 Papers are to be submitted electronically through Easychair at [Here](https://easychair.org/conferences/?conf=qccc24).
 
+At least one author of each accepted submission must register for the workshop and present the work.
 
 ---
 
@@ -132,13 +133,6 @@ TBD
 * Qiang Guan, Kent State University, USA
 * Bo Fang, Pacific Northwest National Laboratory, USA
 
----
-
-## Paper Submission
-We invite **2–4 page extended abstracts** (excluding references). Submissions should adhere to standard IEEE or ISCA workshop formatting guidelines. Accepted abstracts will be included in the workshop proceedings.  
-- **Submission Site**: TBD  
-
-At least one author of each accepted submission must register for the workshop and present the work.
 
 ---
 
