@@ -8,12 +8,13 @@ date: 2025-06-21
   <img src="img/tokyo.jpg" alt="Tokyo" width="800px" />
 </div>
 
-# Overview
-Recent years have witnessed significant advances in quantum computing technology, evolving from early demonstrations of quantum supremacy to breakthroughs in error suppression using quantum error correction codes. While early quantum devices struggled with environmental noise and manufacturing imperfections, current research is increasingly emphasizing noise-resilient architectures and systems that integrate quantum accelerators with classical infrastructures. 
+## Overview
 
-The **International Workshop on Quantum Classical Cooperative Computing (QCCC-25)** aims to explore innovative architectural and system-level solutions to enhance quantum computing performance and scalability, particularly through tight integration with classical systems. Topics of interest include hardware/software co-design for quantum-classical systems, quantum error correction, distributed quantum computing architectures, quantum resource management, circuit decomposition, error mitigation, and more. 
+Over the past few years, quantum computing has experienced remarkable growth—from early demonstrations of quantum supremacy to breakthroughs in error suppression using advanced error correction techniques. While last year’s workshop focused on how classical computing can bolster NISQ-era quantum devices to overcome environmental noise and technological limitations, the landscape is rapidly evolving. Today’s research is shifting toward fault-tolerant quantum computing (FTQC) systems capable of reliable, large-scale computation.
 
-**QCCC-25** will bring together researchers from academia, industry, and national labs to discuss and advance next-generation hybrid computing systems. This workshop encourages submission of **2–4 page extended abstracts**, presenting preliminary results or novel ideas in the realm of quantum-classical cooperative computing.
+**QCCC-25** aims to push these boundaries further by exploring innovative designs for quantum-classical cooperative computing (QCCC) systems that span both the NISQ and FTQC eras. The workshop will emphasize architectural and system-level approaches where classical computing not only enhances performance and scalability but also mitigates challenges such as qubit decoherence, constrained interconnectivity, and the overhead of robust error correction. Additionally, demonstrable approaches on current quantum platforms (e.g., IBMQ, IonQ, Quantinuum, QuEra, etc.) will be welcomed.
+
+By bridging past insights with new technological directions, QCCC-25 seeks to bring together researchers from academia, industry, and national laboratories to advance the next generation of hybrid quantum-classical computing systems.
 
 ---
 
