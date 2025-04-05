@@ -3,7 +3,9 @@
 port: 4000
 host: 0.0.0.0
 safe: false
-
+date: 2025-04-01
+slug: "qccc-25"
+permalink: /qccc-25/
 
 ### site serving configuration ###
 exclude: [CNAME, README.md, .gitignore, bck]
@@ -15,9 +17,6 @@ highlighter: rouge
 
 
 ### content configuration ###
-date: 2025-04-01
-slug: "qccc-25"
-permalink: /qccc-25/
 title:       "QCCC-25: The Fourth International Workshop on Quantum Classical Cooperative Computing"
 keywords:    "quantum computing, NISQ, FTQC, QCCC, hardware/software co-design, quantum error correction, distributed quantum computing"
 description: "The fourth international workshop on quantum classical cooperative computing focuses on innovative architectures and systems for integrating quantum and classical computing in both NISQ and FTQC eras."
